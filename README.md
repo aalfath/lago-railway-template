@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/lago-2?utm_medium=integration&utm_source=button&utm_campaign=lago)
+
 # Lago on Railway
 
 A Railway template for [Lago](https://github.com/getlago/lago), the open-source billing and metering platform (usage-based billing, subscriptions, invoices). It deploys **Lago v1.57.0** with the upstream images pinned by digest.
