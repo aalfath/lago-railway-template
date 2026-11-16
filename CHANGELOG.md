@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.57.0-railway.2 (2026-11-16)
+
+- README: add the Deploy on Railway button for the published template (lago-2). No change to the services.
+
 ## 1.57.0-railway.1 (2026-11-16)
 
 - First release of the Railway template: Lago v1.57.0 (`getlago/api` and `getlago/front` v1.57.0, `lago-gotenberg` 8.39, `postgres-partman` 15.0-alpine), all pinned by digest.
